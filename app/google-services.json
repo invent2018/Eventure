@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284315853086",
+    "firebase_url": "https://eventure-f4225.firebaseio.com",
+    "project_id": "eventure-f4225",
+    "storage_bucket": "eventure-f4225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284315853086:android:51039b0644e20520",
+        "android_client_info": {
+          "package_name": "com.example.weiyushit.eventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284315853086-j1ggtdflf7bdr0ckihgqasmd4jpqt4j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weiyushit.eventure",
+            "certificate_hash": "d9d8359bd0f09d7709ccc1ffe1fdb889e3d2d49e"
+          }
+        },
+        {
+          "client_id": "284315853086-hk122bogilpi4243ekrbrho6jdj71ci3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6a5_eUPCGjLoJgzdLObXbdyzty3mtSMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284315853086-hk122bogilpi4243ekrbrho6jdj71ci3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
