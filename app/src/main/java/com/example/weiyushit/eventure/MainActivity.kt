@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
         false
     }
 
-    var x = 5
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
