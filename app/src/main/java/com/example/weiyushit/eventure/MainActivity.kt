@@ -25,6 +25,8 @@ class MainActivity : AppCompatActivity() {
         false
     }
 
+    var logincredential = "conradsoontobe@gmail.com"
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
